@@ -10,23 +10,21 @@
 ############################
 
 # Name of website
-title: Bohemian Copenhagen
+title: My website
 
 # Your name to show in the footer
-author: Jonatan Krause-Jensen & Anders Myken
+author: Some Person
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About: "aboutme"
-  Communal places:
-    - Libraries: "/path/to/site"
-    - Other: "/path/to/site"
-  Free activities:
-    - Communal dinners: "/path/to/site"
-    - Communal singing: "/path/to/site"
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -34,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "U+2615"
+avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -42,8 +40,6 @@ round-avatar: true
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
-
-
 
 
 #####################################
@@ -306,4 +302,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-

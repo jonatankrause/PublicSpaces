@@ -25,7 +25,7 @@ navbar-links:
   About: "aboutme"
   Communal places:
     - Libraries: "/path/to/site"
-    - Other: "/path/to/site"
+    - Other: "/places/new-place"
   Free activities:
     - Communal dinners: "/path/to/site"
     - Communal singing: "/path/to/site"
